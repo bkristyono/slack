@@ -734,7 +734,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 #team_menu.active, #team_menu:hover { background: #363636 !important; border-bottom-color: #363636 !important; }
 
-#team_menu.active i, #team_menu:hover i { color: #555555; }
+#team_menu.active i, #team_menu:hover i { color: #e6e6e6; }
 
 #team_menu i { color: #949494; }
 

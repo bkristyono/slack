@@ -182,7 +182,7 @@ select { background: #545454; }
 
 select, textarea { border: 1px solid #000; color: #e6e6e6; }
 
-select:active, select:focus, textarea:active, textarea:focus { border-color: #363636; box-shadow: 0 0 7px rgba(82, 82, 82, 0.15); }
+select:active, select:focus, textarea:active, textarea:focus { border-color: #363636; box-shadow: 0 0 7px rgba(130, 130, 130, 0.15); }
 
 input:disabled, input:disabled:active, select:disabled, textarea:disabled { border-color: #424242 !important; }
 
@@ -332,7 +332,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .lazy_filter_select .lfs_token::after { color: #e6e6e6; }
 
-.lazy_filter_select.single .lfs_input_container.active::after, .lazy_filter_select.single .lfs_input_container:hover::after { color: #e6e6e6; }
+.lazy_filter_select.single .lfs_input_container.active::after, .lazy_filter_select.single .lfs_input_container:hover::after { color: #555555; }
 
 #select_share_channels .lazy_filter_select .lfs_value .lfs_item.selected { color: #e6e6e6 !important; }
 
